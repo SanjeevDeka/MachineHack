@@ -17,11 +17,13 @@ In this hackathon we need to  predict the working hours per week at different lo
 -	Sex:  Female, Male.
 -	Capital-gain: negative or positive
 -	Capital-loss: negative or positive
--	**Hours-per-week: in Hours (Target)**
+-	*Hours-per-week: in Hours (Target)*
 -	Native-country: United-States, Cuba, Philippines, Mexico, Honduras, Jamaica, England, India, Canada, Puerto-Rico, South, Guatemala, Haiti Iran, Outlying-US(Guam-USVI-etc), El-Salvador, Italy, Cambodia, Germany, Portugal, Japan, Yugoslavia, Ireland, China, Dominican-Republic, Taiwan, Ecuador, Poland, Trinadad&Tobago, Vietnam, Thailand, Columbia, Peru, France, Greece, Hungary, Laos, Scotland, Hong, Nicaragua,  Holand-Netherlands
 
 **Train: 18944 rows x 15 columns**
+
 **Test: 8119 rows x 14 columns**
+
 **Target Column: “hours-per-week”**
 
 ## Skills:

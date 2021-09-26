@@ -1,2 +1,2 @@
 # MachineHack
-Data Science Hackathons by Analytics Vidhya
+Data Science Hackathons by MachineHack

@@ -1,7 +1,7 @@
-#Overview
+# Overview
 With the rise in different career opportunities, it's a challenging balance between work and personal life. We are learning and upskilling ourselves to grow ourselves in the competitive world. The wages are linked to the working hours and the skills we learn over time. The working hours vary at different locations with respect to earn the same income.
 
-Problem Statement
+## Problem Statement
 In this hackathon we need to  predict the working hours per week at different locations with attributes such as workclass, education, marital-status, occupation capital-gain, capital-gain, capital-loss etc. to get the desired salary in a range. 
 
 Data: 

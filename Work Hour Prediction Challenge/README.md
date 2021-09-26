@@ -5,7 +5,7 @@ With the rise in different career opportunities, it's a challenging balance betw
 In this hackathon we need to  predict the working hours per week at different locations with attributes such as workclass, education, marital-status, occupation capital-gain, capital-gain, capital-loss etc. to get the desired salary in a range. 
 
 ## Data: 
-•	Age: in years
+- Age: in years
 •	Workclass: Private, Self-emp-not-inc, State-gov, Self-emp-inc, Federal-gov, Local-gov, Never-worked, Without-pay
 •	Fnlwgt:  number of people the census believes
 •	Education: HS-grad, Bachelors, Masters, Some-college, 7th-8th, Doctorate, Prof-school,  Assoc-voc, Assoc-acdm, 5th-6th, 11th, 9th, 1st-4th, 12th, 10th, Preschool

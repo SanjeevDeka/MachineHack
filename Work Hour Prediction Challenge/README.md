@@ -31,5 +31,5 @@ Target Column: “hours-per-week”
 -	Machine Learning Approach
 
 ## Evaluation 
-What is the Metric In this competition? How is the Leaderboard Calculated ?
-•	The submission will be evaluated using the RMSE metric. One can use ‘np. sqrt (Mean Squared Error)’ to calculate the same. [mean_squared_error(y_true, y_pred, squared=False)]
+**What is the Metric In this competition? How is the Leaderboard Calculated?**
+-	The submission will be evaluated using the RMSE metric. One can use ‘np. sqrt (Mean Squared Error)’ to calculate the same. [mean_squared_error(y_true, y_pred, squared=False)]

@@ -4,7 +4,7 @@ With the rise in different career opportunities, it's a challenging balance betw
 ## Problem Statement
 In this hackathon we need to  predict the working hours per week at different locations with attributes such as workclass, education, marital-status, occupation capital-gain, capital-gain, capital-loss etc. to get the desired salary in a range. 
 
-Data: 
+## Data: 
 •	Age: in years
 •	Workclass: Private, Self-emp-not-inc, State-gov, Self-emp-inc, Federal-gov, Local-gov, Never-worked, Without-pay
 •	Fnlwgt:  number of people the census believes
@@ -17,19 +17,19 @@ Data:
 •	Sex:  Female, Male.
 •	Capital-gain: negative or positive
 •	Capital-loss: negative or positive
-•	Hours-per-week: in Hours (Target)
+•	*Hours-per-week: in Hours (Target)*
 •	Native-country: United-States, Cuba, Philippines, Mexico, Honduras, Jamaica, England, India, Canada, Puerto-Rico, South, Guatemala, Haiti Iran, Outlying-US(Guam-USVI-etc), El-Salvador, Italy, Cambodia, Germany, Portugal, Japan, Yugoslavia, Ireland, China, Dominican-Republic, Taiwan, Ecuador, Poland, Trinadad&Tobago, Vietnam, Thailand, Columbia, Peru, France, Greece, Hungary, Laos, Scotland, Hong, Nicaragua,  Holand-Netherlands
 
 Train: 18944 rows x 15 columns
 Test: 8119 rows x 14 columns 
 Target Column: “hours-per-week”
 
-Skills:
+## Skills:
 •	Optimize RMSE
 •	Forecasting
 •	Timeseries
 •	Machine Learning Approach
 
-Evaluation 
+## Evaluation 
 What is the Metric In this competition? How is the Leaderboard Calculated ?
 •	The submission will be evaluated using the RMSE metric. One can use ‘np. sqrt (Mean Squared Error)’ to calculate the same. [mean_squared_error(y_true, y_pred, squared=False)]
